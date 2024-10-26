@@ -7,7 +7,7 @@ Adım2:Virtual machine indir
 ![Ekran görüntüsü 2024-10-26 214034](https://github.com/user-attachments/assets/07992c42-6e6f-4987-9725-fcd76fd0d685)
 Adım3:Virtual box'ı çalıştır ve yeni butonuna tıkla
 ![Ekran görüntüsü 2024-10-26 214205](https://github.com/user-attachments/assets/3b65b4f6-5f70-4a13-9b6a-a9d8f8b12373)
-Adım4:Ad ve işletim seçeneklerini resimdeki gibi uygula
+Adım4:Ad ve iso kalıbı seçeneklerini resimdeki gibi uygula
 ![Ekran görüntüsü 2024-10-26 215159](https://github.com/user-attachments/assets/ee55d0e7-e643-4b69-a68f-750bc2fde96e)
 Adım5:Donanım özelliklerini bilgisayarının donanımsal özelliklerine göre belirle.Not:efi seçince çalışırken siyah ekran verirse sonradan ayarlardan efiyi kapatabilirisin.
 ![Ekran görüntüsü 2024-10-26 215212](https://github.com/user-attachments/assets/c977b5c2-b85f-4a3d-b4a7-d06dacd11277)
