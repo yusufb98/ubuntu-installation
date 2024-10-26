@@ -1,4 +1,4 @@
-# ubuntu virtual box kurulumu
+# Ubuntu virtual box kurulumu
 Virtual box ubuntu nasıl kurulur?
 
 Adım1:Ubuntu kurulum dosyasını indir
