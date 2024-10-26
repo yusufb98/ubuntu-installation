@@ -1,5 +1,5 @@
-# ubuntu-installation
-Guide on how to install linux ubuntu in virtual box
+# ubuntu virtual box kurulumu
+Virtual box ubuntu nasıl kurulur?
 
 Adım1:Ubuntu kurulum dosyasını indir
 ![Ekran görüntüsü 2024-10-26 213836](https://github.com/user-attachments/assets/eea63a94-94ff-4160-b8b6-65315c63a0cf)
