@@ -13,5 +13,5 @@ Adım5:Donanım özelliklerini bilgisayarının donanımsal özelliklerine göre
 ![Ekran görüntüsü 2024-10-26 215212](https://github.com/user-attachments/assets/c977b5c2-b85f-4a3d-b4a7-d06dacd11277)
 Adım6:Sabit disk ayarlarını kendi bilgisayarının donanımsal özelliklerine göre belirle.Ardından bitir butonuna bas ve sanal makineyi çalıştır.
 ![Ekran görüntüsü 2024-10-26 215253](https://github.com/user-attachments/assets/127c5b7c-e06d-4d85-b6ac-cba4e503f6f6)
-Adım7:Kurulum 
+Adım7:Ubuntu kurulum ekranı açıldıktan sonra aşağıdaki adımları tek tek kendinize göre işaretleyip geçebilirsiniz.
 ![VirtualBox_ubuntu1_26_10_2024_01_28_33](https://github.com/user-attachments/assets/b575c74d-6e91-4ad1-b543-7d6d4d822660)
