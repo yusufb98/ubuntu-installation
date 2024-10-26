@@ -17,18 +17,18 @@ Adım7:Ubuntu kurulum ekranı açıldıktan sonra aşağıdaki adımları tek te
 ![VirtualBox_ubuntu1_26_10_2024_01_28_33](https://github.com/user-attachments/assets/b575c74d-6e91-4ad1-b543-7d6d4d822660)
 ![VirtualBox_ubuntu1_26_10_2024_01_28_43](https://github.com/user-attachments/assets/ba30cce3-2c15-4175-8fd7-8bd1fc0ab610)
 ![VirtualBox_ubuntu1_26_10_2024_01_28_55](https://github.com/user-attachments/assets/4f411681-bfd9-41ad-8124-aeb8030758f7)
-![VirtualBox_ubuntu1_26_10_2024_01_29_04](https://github.com/user-attachments/assets/da9edbdb-18af-49bc-93d6-fddf7883720f)
-![VirtualBox_ubuntu1_26_10_2024_01_44_53](https://github.com/user-attachments/assets/f4e5238e-b662-4fcf-a14e-02be05d656c9)
-![VirtualBox_ubuntu1_26_10_2024_01_44_32](https://github.com/user-attachments/assets/d1c269d7-e64e-489f-b417-f5b2cd3fe4ce)
-![VirtualBox_ubuntu1_26_10_2024_01_33_08](https://github.com/user-attachments/assets/44732d54-e616-4656-b984-9f014207b9dc)
-![VirtualBox_ubuntu1_26_10_2024_01_32_08](https://github.com/user-attachments/assets/be32cc93-87b3-4be7-92a7-531497d9fb2e)
-![VirtualBox_ubuntu1_26_10_2024_01_31_53](https://github.com/user-attachments/assets/7903b03a-c472-4cdb-a816-02a60c3ebc6b)
-![VirtualBox_ubuntu1_26_10_2024_01_31_30](https://github.com/user-attachments/assets/a363cc10-9c28-4624-a4d4-58a02c75e965)
-![VirtualBox_ubuntu1_26_10_2024_01_30_35](https://github.com/user-attachments/assets/da9c559e-ea1a-4a3c-9ab2-4d90768e068f)
-![VirtualBox_ubuntu1_26_10_2024_01_29_41](https://github.com/user-attachments/assets/53c63773-6487-4af4-9ae2-7f5e7fdab00e)
-![VirtualBox_ubuntu1_26_10_2024_01_29_32](https://github.com/user-attachments/assets/54c9ea64-b787-44c5-b640-f5bcef1bc627)
-![VirtualBox_ubuntu1_26_10_2024_01_29_12](https://github.com/user-attachments/assets/48d39761-8af2-4097-a77d-f3c34e0cf08c)
-
+![VirtualBox_ubuntu1_26_10_2024_01_29_04](https://github.com/user-attachments/assets/34ca0829-565c-455c-bb59-a4a5f2953e90)
+![VirtualBox_ubuntu1_26_10_2024_01_29_12](https://github.com/user-attachments/assets/5d36d3fd-8ddc-4cd6-9296-2e4535364b05)
+![VirtualBox_ubuntu1_26_10_2024_01_29_32](https://github.com/user-attachments/assets/f8d72f4e-e9bc-4dbf-b48a-a82a0b52e45a)
+![VirtualBox_ubuntu1_26_10_2024_01_29_41](https://github.com/user-attachments/assets/2dacefd7-1d91-498f-b3a0-1a42be8e009d)
+![VirtualBox_ubuntu1_26_10_2024_01_30_35](https://github.com/user-attachments/assets/db5ed855-d97f-4be6-9d16-e25eb1a15df5)
+![VirtualBox_ubuntu1_26_10_2024_01_31_30](https://github.com/user-attachments/assets/26a6befb-5698-4ef7-8073-e4c5f4cbd0cf)
+![VirtualBox_ubuntu1_26_10_2024_01_31_53](https://github.com/user-attachments/assets/6c290e21-4081-4b4a-9c36-54a7abbb3bc8)
+![VirtualBox_ubuntu1_26_10_2024_01_32_08](https://github.com/user-attachments/assets/ab178d84-8550-417d-866b-62f748df2a4a)
+![VirtualBox_ubuntu1_26_10_2024_01_33_08](https://github.com/user-attachments/assets/d71a0ada-8b68-45bf-8947-15f0987b4cac)
+![VirtualBox_ubuntu1_26_10_2024_01_44_32](https://github.com/user-attachments/assets/d28d30a9-2ed1-4766-a367-29e540a49d27)
+![VirtualBox_ubuntu1_26_10_2024_01_44_53](https://github.com/user-attachments/assets/528b0d19-9cbe-456d-bbf5-83abca714926)
+Tebrikler! Ubuntu kurulumunuz başarıyla tamamlandı.
 
 
 
